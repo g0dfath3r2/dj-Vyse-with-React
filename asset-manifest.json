@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/g0dfath3r2/dj-vyse-with-react/static/js/main.7bdd0c7d.chunk.js",
+    "main.js.map": "/g0dfath3r2/dj-vyse-with-react/static/js/main.7bdd0c7d.chunk.js.map",
+    "runtime-main.js": "/g0dfath3r2/dj-vyse-with-react/static/js/runtime-main.6fdeab5b.js",
+    "runtime-main.js.map": "/g0dfath3r2/dj-vyse-with-react/static/js/runtime-main.6fdeab5b.js.map",
+    "static/js/2.371db430.chunk.js": "/g0dfath3r2/dj-vyse-with-react/static/js/2.371db430.chunk.js",
+    "static/js/2.371db430.chunk.js.map": "/g0dfath3r2/dj-vyse-with-react/static/js/2.371db430.chunk.js.map",
+    "index.html": "/g0dfath3r2/dj-vyse-with-react/index.html",
+    "static/js/2.371db430.chunk.js.LICENSE.txt": "/g0dfath3r2/dj-vyse-with-react/static/js/2.371db430.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fdeab5b.js",
+    "static/js/2.371db430.chunk.js",
+    "static/js/main.7bdd0c7d.chunk.js"
+  ]
+}
